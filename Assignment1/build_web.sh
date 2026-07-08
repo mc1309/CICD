@@ -32,10 +32,10 @@ emcc -std=c++17 \
     -s FULL_ES3=1 \
     -s WASM=1 \
     -s ALLOW_MEMORY_GROWTH=1 \
-    --preload-file Scene/BlueTriangleVertex.glsl@BlueTriangleVertex.glsl \
-    --preload-file Scene/BlueTriangleFragment.glsl@BlueTriangleFragment.glsl \
-    --preload-file Scene/YellowSquareVertex.glsl@YellowSquareVertex.glsl \
-    --preload-file Scene/YellowSquareFragment.glsl@YellowSquareFragment.glsl \
+    --preload-file android/app/src/main/assets/shader/BlueTriangleVertex.glsl@BlueTriangleVertex.glsl \
+    --preload-file android/app/src/main/assets/shader/BlueTriangleFragment.glsl@BlueTriangleFragment.glsl \
+    --preload-file android/app/src/main/assets/shader/YellowSquareVertex.glsl@YellowSquareVertex.glsl \
+    --preload-file android/app/src/main/assets/shader/YellowSquareFragment.glsl@YellowSquareFragment.glsl \
     -o web/index.html
 
 # --- SDL2 backend (opt-in) --------------------------------------------------
