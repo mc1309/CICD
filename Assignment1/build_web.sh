@@ -24,6 +24,7 @@ emcc -std=c++17 \
     Scene/main.cpp \
     Scene/Triangle.cpp \
     Scene/Renderer.cpp \
+    Scene/Square.cpp \
     -IScene \
     -DUSE_GLFW \
     -s USE_GLFW=3 \
