@@ -1,0 +1,6 @@
+# ninja log v5
+14	920	8046359883462825	CMakeFiles/glpiframeworkintro.dir/NativeTemplate.cpp.o	684285b204d29ddc
+1	968	8046359883678339	CMakeFiles/glpiframeworkintro.dir/ff8f4c42b211ec7b4e3bab70b1817c32/Scene/Renderer.cpp.o	2caf6252f582159
+27	1284	8046359886962026	CMakeFiles/glpiframeworkintro.dir/ff8f4c42b211ec7b4e3bab70b1817c32/Scene/Square.cpp.o	235de216f6f540b1
+41	1308	8046359887037188	CMakeFiles/glpiframeworkintro.dir/ff8f4c42b211ec7b4e3bab70b1817c32/Scene/Triangle.cpp.o	c40ada4e448feef7
+1308	1455	8046359888871033	C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/android/app/build/intermediates/cxx/Debug/366f1u1e/obj/x86_64/libglpiframeworkintro.so	b7acbabec1f449bb

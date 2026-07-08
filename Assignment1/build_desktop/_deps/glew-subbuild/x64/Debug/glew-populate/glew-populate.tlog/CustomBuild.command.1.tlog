@@ -1,0 +1,150 @@
+^C:\USERS\MARCUS\DOWNLOADS\M.CHOO-ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLEW-SUBBUILD\CMAKEFILES\820256B2F0526E20348DC2392FD288AF\GLEW-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/glew-populate-prefix/tmp/glew-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/glew-populate-prefix/src/glew-populate-stamp/Debug/glew-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARCUS\DOWNLOADS\M.CHOO-ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLEW-SUBBUILD\CMAKEFILES\820256B2F0526E20348DC2392FD288AF\GLEW-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/glew-populate-prefix/tmp/glew-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/glew-populate-prefix/src/glew-populate-stamp/Debug/glew-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARCUS\DOWNLOADS\M.CHOO-ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLEW-SUBBUILD\CMAKEFILES\820256B2F0526E20348DC2392FD288AF\GLEW-POPULATE-UPDATE.RULE
+setlocal
+cd C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/glew-populate-prefix/tmp/glew-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARCUS\DOWNLOADS\M.CHOO-ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLEW-SUBBUILD\CMAKEFILES\820256B2F0526E20348DC2392FD288AF\GLEW-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/glew-populate-prefix/src/glew-populate-stamp/Debug/glew-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARCUS\DOWNLOADS\M.CHOO-ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLEW-SUBBUILD\CMAKEFILES\820256B2F0526E20348DC2392FD288AF\GLEW-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/glew-populate-prefix/src/glew-populate-stamp/Debug/glew-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARCUS\DOWNLOADS\M.CHOO-ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLEW-SUBBUILD\CMAKEFILES\820256B2F0526E20348DC2392FD288AF\GLEW-POPULATE-BUILD.RULE
+setlocal
+cd C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/glew-populate-prefix/src/glew-populate-stamp/Debug/glew-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARCUS\DOWNLOADS\M.CHOO-ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLEW-SUBBUILD\CMAKEFILES\820256B2F0526E20348DC2392FD288AF\GLEW-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/glew-populate-prefix/src/glew-populate-stamp/Debug/glew-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARCUS\DOWNLOADS\M.CHOO-ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLEW-SUBBUILD\CMAKEFILES\820256B2F0526E20348DC2392FD288AF\GLEW-POPULATE-TEST.RULE
+setlocal
+cd C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/glew-populate-prefix/src/glew-populate-stamp/Debug/glew-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARCUS\DOWNLOADS\M.CHOO-ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLEW-SUBBUILD\CMAKEFILES\162224E10C47A8070FB91AE9DCAE7982\GLEW-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/Debug/glew-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/glew-populate-prefix/src/glew-populate-stamp/Debug/glew-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARCUS\DOWNLOADS\M.CHOO-ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLEW-SUBBUILD\CMAKEFILES\F8E17A2C9C30498FBF35941F9FE0BA36\GLEW-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARCUS\DOWNLOADS\M.CHOO-ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLEW-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild -BC:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild --check-stamp-file C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

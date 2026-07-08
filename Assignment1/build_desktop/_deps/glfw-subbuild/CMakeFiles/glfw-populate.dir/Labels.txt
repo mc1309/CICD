@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/f87d6afc6f7b3fd21fe2154dd06951f9/glfw-populate.rule
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/37f30187837bc40c11889ddcf9d634cf/glfw-populate-complete.rule
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-build.rule
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-configure.rule
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-download.rule
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-install.rule
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-mkdir.rule
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-patch.rule
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-test.rule
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-update.rule

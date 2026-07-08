@@ -1,0 +1,41 @@
+ninja: Entering directory `C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\android\app\.cxx\Debug\366f1u1e\x86_64'
+[1/5] Building CXX object CMakeFiles/glpiframeworkintro.dir/NativeTemplate.cpp.o
+In file included from C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/android/app/src/main/cpp/NativeTemplate.cpp:16:
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/android/app/src/main/cpp/../../../../../Scene/Platform.h:22:9: warning: 'PLATFORM_ANDROID' macro redefined [-Wmacro-redefined]
+   22 | #define PLATFORM_ANDROID
+      |         ^
+<command line>:2:9: note: previous definition is here
+    2 | #define PLATFORM_ANDROID 1
+      |         ^
+1 warning generated.
+[2/5] Building CXX object CMakeFiles/glpiframeworkintro.dir/ff8f4c42b211ec7b4e3bab70b1817c32/Scene/Renderer.cpp.o
+In file included from C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/Scene/Renderer.cpp:11:
+In file included from C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/Scene/Triangle.h:13:
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/Scene/Platform.h:22:9: warning: 'PLATFORM_ANDROID' macro redefined [-Wmacro-redefined]
+   22 | #define PLATFORM_ANDROID
+      |         ^
+<command line>:2:9: note: previous definition is here
+    2 | #define PLATFORM_ANDROID 1
+      |         ^
+1 warning generated.
+[3/5] Building CXX object CMakeFiles/glpiframeworkintro.dir/ff8f4c42b211ec7b4e3bab70b1817c32/Scene/Square.cpp.o
+In file included from C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/Scene/Square.cpp:12:
+In file included from C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/Scene/Square.h:13:
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/Scene/Platform.h:22:9: warning: 'PLATFORM_ANDROID' macro redefined [-Wmacro-redefined]
+   22 | #define PLATFORM_ANDROID
+      |         ^
+<command line>:2:9: note: previous definition is here
+    2 | #define PLATFORM_ANDROID 1
+      |         ^
+1 warning generated.
+[4/5] Building CXX object CMakeFiles/glpiframeworkintro.dir/ff8f4c42b211ec7b4e3bab70b1817c32/Scene/Triangle.cpp.o
+In file included from C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/Scene/Triangle.cpp:11:
+In file included from C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/Scene/Triangle.h:13:
+C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/Scene/Platform.h:22:9: warning: 'PLATFORM_ANDROID' macro redefined [-Wmacro-redefined]
+   22 | #define PLATFORM_ANDROID
+      |         ^
+<command line>:2:9: note: previous definition is here
+    2 | #define PLATFORM_ANDROID 1
+      |         ^
+1 warning generated.
+[5/5] Linking CXX shared library C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\android\app\build\intermediates\cxx\Debug\366f1u1e\obj\x86_64\libglpiframeworkintro.so

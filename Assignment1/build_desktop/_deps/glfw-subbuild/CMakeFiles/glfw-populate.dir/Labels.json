@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/f87d6afc6f7b3fd21fe2154dd06951f9/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/37f30187837bc40c11889ddcf9d634cf/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/328df307599e723a41a8c27b30bd69f1/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

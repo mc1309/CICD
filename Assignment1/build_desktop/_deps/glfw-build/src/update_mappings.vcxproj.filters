@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\CMakeFiles\0349585f6e08e523f3d5ab0842f8e3ca\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glfw-src\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glfw-src\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glfw-src\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glfw-build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EF3CCD68-D70B-3C04-8753-7B9030BA5B41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7453E69C-9DF7-3D5C-B122-2AD32A7F1DDC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

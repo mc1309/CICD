@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\Scene\Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\Scene\Square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\Scene\Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\Scene\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0D33F668-A6C0-3ED0-B7C2-3EE5A4DC2633}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

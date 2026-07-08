@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Marcus\Downloads\m.choo-AndroidProgrammingQuiz-CrossPlatformCI\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-subbuild\CMakeFiles\f8e17a2c9c30498fbf35941f9fe0ba36\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8982F926-4FE0-3F92-9102-FC3F69A66571}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

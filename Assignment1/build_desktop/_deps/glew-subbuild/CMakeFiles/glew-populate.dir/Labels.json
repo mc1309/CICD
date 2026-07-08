@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/glew-populate"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/f8e17a2c9c30498fbf35941f9fe0ba36/glew-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/162224e10c47a8070fb91ae9dcae7982/glew-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/820256b2f0526e20348dc2392fd288af/glew-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/820256b2f0526e20348dc2392fd288af/glew-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/820256b2f0526e20348dc2392fd288af/glew-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/820256b2f0526e20348dc2392fd288af/glew-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/820256b2f0526e20348dc2392fd288af/glew-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/820256b2f0526e20348dc2392fd288af/glew-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/820256b2f0526e20348dc2392fd288af/glew-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Downloads/m.choo-AndroidProgrammingQuiz-CrossPlatformCI/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/820256b2f0526e20348dc2392fd288af/glew-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glew-populate"
+		],
+		"name" : "glew-populate"
+	}
+}
