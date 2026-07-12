@@ -1,0 +1,8 @@
+C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/CMakeFiles/glpiframeworkintro.dir
+C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/CMakeFiles/edit_cache.dir
+C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/CMakeFiles/rebuild_cache.dir
+C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-build/CMakeFiles/edit_cache.dir
+C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-build/CMakeFiles/rebuild_cache.dir
+C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-build/glm/CMakeFiles/glm.dir
+C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-build/glm/CMakeFiles/edit_cache.dir
+C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-build/glm/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/CMakeFiles/glm-populate"
+		},
+		{
+			"file" : "C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/CMakeFiles/glm-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/CMakeFiles/glm-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glm-populate"
+		],
+		"name" : "glm-populate"
+	}
+}

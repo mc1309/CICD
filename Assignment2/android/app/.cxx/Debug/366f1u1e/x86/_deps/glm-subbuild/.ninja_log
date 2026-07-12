@@ -1,0 +1,21 @@
+# ninja log v5
+1	221	8055840813746546	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	5bb6051f7f4c2efe
+1	221	8055840813746546	C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	5bb6051f7f4c2efe
+222	9157	8055840903044683	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	f16501bc94ddb28f
+222	9157	8055840903044683	C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	f16501bc94ddb28f
+9159	9341	0	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	280e54bc8217ac94
+9159	9341	0	C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	280e54bc8217ac94
+9341	9409	8055840905613390	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	70c0bd30b495c292
+9341	9409	8055840905613390	C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	70c0bd30b495c292
+9409	9477	8055840906293376	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	7c63b3e477bdb5b
+9409	9477	8055840906293376	C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	7c63b3e477bdb5b
+9477	9549	8055840907018835	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	f1b3100af472db26
+9477	9549	8055840907018835	C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	f1b3100af472db26
+9549	9610	8055840907634454	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	92fdb3a4b9402a26
+9549	9610	8055840907634454	C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	92fdb3a4b9402a26
+9610	9675	8055840908277544	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	9c4c202fbcce1d73
+9610	9675	8055840908277544	C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	9c4c202fbcce1d73
+9675	9759	8055840909112772	CMakeFiles/glm-populate-complete	93926e89874a4c8f
+9675	9759	8055840909112772	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	93926e89874a4c8f
+9675	9759	8055840909112772	C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	93926e89874a4c8f
+9675	9759	8055840909112772	C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	93926e89874a4c8f

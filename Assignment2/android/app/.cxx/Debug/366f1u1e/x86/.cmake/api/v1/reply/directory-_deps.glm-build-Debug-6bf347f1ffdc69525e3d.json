@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/glm-build",
+		"source" : "C:/Users/Marcus/Documents/csd2101-summer-2026/Week-8/Assignment-2-3DFan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-src"
+	}
+}

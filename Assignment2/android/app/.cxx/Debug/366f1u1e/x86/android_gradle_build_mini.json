@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Marcus\\Documents\\csd2101-summer-2026\\Week-8\\Assignment-2-3DFan\\android\\app\\.cxx\\Debug\\366f1u1e\\x86\\_deps\\glm-src\\CMakeLists.txt",
+    "C:\\Users\\Marcus\\Documents\\csd2101-summer-2026\\Week-8\\Assignment-2-3DFan\\android\\app\\.cxx\\Debug\\366f1u1e\\x86\\_deps\\glm-src\\glm\\CMakeLists.txt",
+    "C:\\Users\\Marcus\\Documents\\csd2101-summer-2026\\Week-8\\Assignment-2-3DFan\\android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Marcus\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Marcus\\Documents\\csd2101-summer-2026\\Week-8\\Assignment-2-3DFan\\android\\app\\.cxx\\Debug\\366f1u1e\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Marcus\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Marcus\\Documents\\csd2101-summer-2026\\Week-8\\Assignment-2-3DFan\\android\\app\\.cxx\\Debug\\366f1u1e\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "glm::@ce54d98d7b326a3e12a8": {
+      "artifactName": "glm",
+      "abi": "x86",
+      "output": "C:\\Users\\Marcus\\Documents\\csd2101-summer-2026\\Week-8\\Assignment-2-3DFan\\android\\app\\.cxx\\Debug\\366f1u1e\\x86\\_deps\\glm-build\\glm\\libglm.a",
+      "runtimeFiles": []
+    },
+    "glpiframeworkintro::@6890427a1f51a3e7e1df": {
+      "artifactName": "glpiframeworkintro",
+      "abi": "x86",
+      "output": "C:\\Users\\Marcus\\Documents\\csd2101-summer-2026\\Week-8\\Assignment-2-3DFan\\android\\app\\build\\intermediates\\cxx\\Debug\\366f1u1e\\obj\\x86\\libglpiframeworkintro.so",
+      "runtimeFiles": []
+    }
+  }
+}
