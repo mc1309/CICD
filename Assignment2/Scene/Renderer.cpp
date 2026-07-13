@@ -55,6 +55,7 @@ void Renderer::clearModels()
 
 bool Renderer::initializeRenderer()
 {
+    LOGI("Renderer::initializeRenderer");
     createModels();
     initializeModels();
     return true;
@@ -62,6 +63,7 @@ bool Renderer::initializeRenderer()
 
 void Renderer::resize(int w, int h)
 {
+    LOGI("Renderer::resize %d x %d", w, h);
     for (Model* m : models) {
         m->Resize(w, h);
     }

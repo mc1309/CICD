@@ -75,7 +75,7 @@ static void main_loop()
 
 int main()
 {
-    LOGI("GLPI Framework Intro - WebGL / Emscripten (GLFW)");
+    LOGI("Assignment 2 - 3D Fan (GLFW)");
 
     if (!glfwInit()) { LOGE("glfwInit failed"); return -1; }
 
@@ -211,8 +211,11 @@ static void cursorPosCB(GLFWwindow* /*win*/, double x, double y)
 
 int main()
 {
-    std::cout << "GLPI Framework Intro - Desktop (GLFW)\n";
-    std::cout << "Watch the fan spin. Click = tap, click-drag = swipe. Press ESC to quit.\n";
+    std::cout << "Assignment 2 - 3D Fan (GLFW)\n";
+    std::cout
+        << "Click = fan ON/OFF.  "
+        << "Drag = spin faster (speed follows drag).  "
+        << "ESC to quit.\n";
 
     if (!glfwInit()) { std::cerr << "glfwInit failed\n"; return -1; }
 

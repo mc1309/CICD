@@ -108,6 +108,7 @@ void Fan::buildCubeGeometry()
 
 void Fan::InitModel()
 {
+    LOGI("Fan::InitModel");
     buildCubeGeometry();
 
 #ifdef PLATFORM_ANDROID
@@ -123,6 +124,10 @@ void Fan::InitModel()
     transform.TransformInit();
 
     lastMoveTime = std::chrono::steady_clock::now();
+    LOGI(
+            "Fan::InitModel done (VAO=%u). Tap = ON/OFF, drag = speed boost.",
+            vao
+    );
 }
 
 void Fan::Resize(int w, int h)
@@ -233,6 +238,12 @@ void Fan::TouchMove(float x, float y)
     if (dtMs > 0.0f) {
         float velocity = dist / dtMs; // px per ms
         dragBoost = std::min(velocity * kBoostScale, kMaxBoost);
+
+        LOGI(
+                "Fan: drag velocity %.2f px/ms -> boost %.2f deg/frame",
+                velocity,
+                dragBoost
+        );
     }
     lastMoveTime = now;
 
