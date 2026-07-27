@@ -53,6 +53,13 @@ jobs:
           mkdir -p ../site/Assignment2
           cp -r web/. ../site/Assignment2/
 
+      - name: Build Assignment 3
+        working-directory: Assignment3
+        run: |
+          bash build_web.sh
+          mkdir -p ../site/Assignment3
+          cp -r web/. ../site/Assignment3/
+
       - name: Generate index.html
         run: |
           cat > site/index.html << 'HTML'
@@ -71,6 +78,7 @@ jobs:
             <p><a href="Chapter2/2-OpenGLES3_Primitives-Modern/">Launch the demo</a></p>
             <p><a href="Assignment1/">Launch Assignment 1</a></p>
             <p><a href="Assignment2/">Launch Assignment 2</a></p>
+            <p><a href="Assignment3/">Launch Assignment 3</a></p>
 
           </body>
           </html>
